@@ -8,7 +8,7 @@
 -- Or execute your favorite apps at launch like this:
 --
 
-local v = require("variables")
+local v = require("config.variables")
 hl.on("hyprland.start", function()
   hl.exec_cmd(v.terminal)
   --   hl.exec_cmd("nm-applet")

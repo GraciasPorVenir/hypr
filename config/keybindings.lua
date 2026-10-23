@@ -2,7 +2,7 @@
 ---- KEYBINDINGS ----
 ---------------------
 
-local v = require("variables")
+local v = require("config.variables")
 
 
 -- Example binds, see https://wiki.hypr.land/Configuring/Basics/Binds/ for more
